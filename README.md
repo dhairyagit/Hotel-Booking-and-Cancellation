@@ -110,12 +110,12 @@ The dataset contains booking information for both **City Hotels** and **Resort H
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
 
-### 🔄 In Progress
+### ✅ Completed
 
 * Feature Engineering
 * Predictive Modeling Preparation
 
-### 📅 Upcoming
+### ✅ Completed
 
 * Booking Cancellation Prediction
 * Customer Segmentation
